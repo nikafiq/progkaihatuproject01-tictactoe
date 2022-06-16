@@ -140,7 +140,7 @@ def reset_game():
     XO = 'x'
     draw = False
     game_opening()
-    winner=None
+    winner = None
     board = [[None]*3,[None]*3,[None]*3]
 
 game_opening()
